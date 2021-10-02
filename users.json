@@ -1,0 +1,9 @@
+[{
+    "userid" : 1,
+    "name": "ABC",
+    "mobile" : 9999999999,
+    "symptopms" : {"cold":true,"cough":true,"fever":true},
+    "travelHistory":true,
+    "contactWithCovidPatient":true,
+    "result":true
+}]

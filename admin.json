@@ -1,0 +1,8 @@
+[{
+    "adminid" : 1,
+    "name": "XYZ",
+    "mobile" : 88888888,
+    "symptopms" : {"cold":true,"cough":true,"fever":true},
+    "travelHistory":true,
+    "contactWithCovidPatient":true
+}]
